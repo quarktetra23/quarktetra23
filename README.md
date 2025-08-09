@@ -1,16 +1,11 @@
 ## Hi there 👋
 
-<!--
-**quarktetra23/quarktetra23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name's Abhishek, senior at The College of Wooster studying Mathematics and Computer Science. 
 
-Here are some ideas to get you started:
+- ⚡️ I am currently working on a creating a cpp linter, based on 100+ formatting guides in Google's C++ styling guide (https://google.github.io/styleguide
+  cppguide.html)
+  
+- 🤔 I’m looking for help with any solid resources on computational neuroscience. 
 
-- I am currently working on a creating a cpp linter, which is basically a front-end compiler, based on Google's C++ styling guide (https://google.github.io/styleguide/cppguide.html)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 You can reach me at amanhas26@wooster.edu with any questions!
+
